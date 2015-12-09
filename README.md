@@ -23,5 +23,9 @@
 ```
 
 Tic Tac Toe
+Built following a tutorial while learning React and Redux
 
-- Built following a tutorial while learning React and Redux
+- Pull and cd into folder
+- npm install
+- jspm-server
+- Enjoy!
